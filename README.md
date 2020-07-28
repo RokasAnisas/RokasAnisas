@@ -1,9 +1,10 @@
-### Hello, I am Rokas Anisas 👋 I am a frontend developer and UI designer
+## Hello, I am Rokas Anisas 👋
+### I am a frontend developer and UI designer
 
-📫 You can reach me: rokas.anisas@gmail.com
-👯 I’m always looking forward to work on new 
+- 📫 You can reach me: rokas.anisas@gmail.com
+- 👯 I’m always looking forward to work on interesting projects!
 
-I worked on:
+### I worked on:
 - https://revoliucijasirijoje.lrt.lt/
 - http://pilkojizona.lrt.lt/
 - https://issirinkprofesija.lsmu.lt/
