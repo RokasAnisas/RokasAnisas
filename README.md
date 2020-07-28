@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello, I am Rokas Anisas 👋 I am a frontend developer and UI designer
+
+📫 You can reach me: rokas.anisas@gmail.com
+👯 I’m always looking forward to work on new 
+
+I worked on:
+- https://revoliucijasirijoje.lrt.lt/
+- http://pilkojizona.lrt.lt/
+- https://issirinkprofesija.lsmu.lt/
+
+See more projects on my website: http://rokasanisas.com/
 
 <!--
 **RokasAniss/RokasAniss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
