@@ -9,7 +9,7 @@
 - http://pilkojizona.lrt.lt/
 - https://issirinkprofesija.lsmu.lt/
 
-See more projects on my website: http://rokasanisas.com/
+See more projects on my website: https://anisas.me/
 
 <!--
 **RokasAniss/RokasAniss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
