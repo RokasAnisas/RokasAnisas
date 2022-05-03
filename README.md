@@ -8,8 +8,9 @@
 - https://revoliucijasirijoje.lrt.lt/
 - http://pilkojizona.lrt.lt/
 - https://issirinkprofesija.lsmu.lt/
+- https://badux.herokuapp.com/
 
-Personal web site: https://anisas.me/
+Personal web site: http://anisas.io/
 
 <!--
 **RokasAniss/RokasAniss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
