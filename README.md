@@ -8,7 +8,6 @@
 - https://revoliucijasirijoje.lrt.lt/
 - http://pilkojizona.lrt.lt/
 - https://issirinkprofesija.lsmu.lt/
-- https://badux.herokuapp.com/
 
 Personal web site: http://anisas.io/
 
